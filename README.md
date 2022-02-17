@@ -1,5 +1,5 @@
 # BruteforceGD2
-Program for brute forcing Geometry Dash accounts.
+Program for brute forcing Geometry Dash accounts. (Hacking GD Accounts)
 
 Disclaimer! I am not responsible for your actions, for educational purposes only!
 
